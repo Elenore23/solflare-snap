@@ -22,7 +22,7 @@
     "snap.manifest.json"
   ],
   "dependencies": {
-    "@babel/runtime": "^7.21.5",
+    "@babel/runtime": "^7.24.7",
     "@metamask/key-tree": "^7.1.1",
     "@metamask/snaps-ui": "^0.32.2",
     "bs58": "^5.0.0",
